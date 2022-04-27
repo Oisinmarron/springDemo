@@ -1,0 +1,1 @@
+insert into customer (userId, email, password, firstName, lastName, phoneNumber) values (nextval('user_seq'), 'test1@test.com', '1234', 'Oisin', 'Marron', '0863214612');
